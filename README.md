@@ -8,8 +8,11 @@ A luxury e-commerce application containing 20 real-world web application vulnera
 ---
 
 ## 📋 Prerequisites
-- [Docker](https://docs.docker.com/get-docker/)
-- [Docker Compose](https://docs.docker.com/compose/install/)
+```Bash
+sudo apt update
+sudo apt install -y docker.io docker-compose
+sudo usermod -aG docker $USER
+```
 
 ---
 

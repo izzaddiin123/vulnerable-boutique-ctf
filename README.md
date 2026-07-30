@@ -23,7 +23,6 @@ Bash
 docker-compose up --build -d
 Access the application:
 Open your browser and navigate to http://localhost.
-
 🛑 Stopping the Environment
 To stop and reset all container data:
 

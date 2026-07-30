@@ -17,16 +17,19 @@ A luxury e-commerce application containing 20 real-world web application vulnera
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/vulnerable-boutique-ctf.git](https://github.com/YOUR_USERNAME/vulnerable-boutique-ctf.git)
+   git clone https://github.com/izzaddiin123/vulnerable-boutique-ctf.git
    cd vulnerable-boutique-ctf
+   ```
 Build and start the environment:
 
-Bash
+```Bash
 docker-compose up --build -d
+```
 Access the application:
-Open your browser and navigate to http://localhost.
+Open your browser and navigate to 
+- http://localhost.
 🛑 Stopping the Environment
 To stop and reset all container data:
-
-Bash
+```Bash
 docker-compose down -v
+```

@@ -1,5 +1,6 @@
 Markdown
-# There will be full Hunting Video on Youtube soon [Mr-Armwq-Youtube]((www.youtube.com/@MrArmwq-f1d)):subscribe
+# There will be full Hunting Video on Youtube soon 
+[Mr-Armwq-Youtube]((www.youtube.com/@MrArmwq-f1d)):subscribe
 # 🛍️ Aura Boutique - Vulnerable Web Application (CTF)
 
 A luxury e-commerce application containing 20 real-world web application vulnerabilities for security research, CTF training, and defensive testing.
